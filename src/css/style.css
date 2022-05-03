@@ -276,7 +276,7 @@ header .subheader .container .call .contacts .call_tel {
 }
 
 .advantages .advantages_list .advantages_item .advantages_iconborder {
-  background-color: #1EACC7;
+  background-color: black;
   border-radius: 50%;
   border: none;
   height: 116px;
